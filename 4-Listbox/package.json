@@ -1,0 +1,19 @@
+{
+  "name": "1-transition",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "-": "0.0.1",
+    "@headlessui/react": "^0.2.0",
+    "next": "9.5.3",
+    "postcss-preset-env": "^6.7.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "tailwindcss": "^1.8.10"
+  }
+}
